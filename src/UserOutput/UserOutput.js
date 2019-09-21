@@ -1,5 +1,7 @@
 import React from "react";
 
+import "./UserOutput.css";
+
 export const UserOutput = props => {
   return (
     <div className="UserOutput">
