@@ -9,8 +9,8 @@ class App extends Component {
     return (
       <div className="App">
         <UserInput />
-        <UserOutput />
-        <UserOutput />
+        <UserOutput userName="Wulip" />
+        <UserOutput userName="FreeBlue" />
       </div>
     );
   }
